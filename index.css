@@ -1,0 +1,50 @@
+div {
+    text-align: center;
+    border: 10px;
+
+}
+
+#contact {
+    font-size: 30px;
+}
+
+table {
+    border: 2px solid;
+
+}
+
+td { 
+    border: 2px solid;
+    border-radius: 5%;
+}
+
+body{
+    background-color: lightpink;
+    background-image: url(https://wallpapercave.com/wp/nxClv0S.jpg);
+}
+
+#main { 
+    background-image: url(https://images8.alphacoders.com/282/282539.jpg);
+    color: purple;
+}
+
+#contact {
+    color: blue;
+    
+    
+}
+
+#images {
+    margin: 100px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
