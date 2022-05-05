@@ -9,13 +9,15 @@ div {
 }
 
 table {
-    border: 2px solid;
+    
+    
 
 }
 
 td { 
     border: 2px solid;
     border-radius: 5%;
+    
 }
 
 body{
@@ -24,8 +26,10 @@ body{
 }
 
 #main { 
+    height:500px;
     background-image: url(https://images8.alphacoders.com/282/282539.jpg);
     color: purple;
+
 }
 
 #contact {
@@ -34,9 +38,8 @@ body{
     
 }
 
-#images {
-    margin: 100px;
-}
+
+
 
 p {
     font-size: 20px;
@@ -48,3 +51,14 @@ img {
     width: 300px;
 }
 
+#main h1{
+    font-size: 100px;
+}
+
+#main h2 {
+    font-size: 50px;
+}
+
+#main h3 {
+    font-size: 30px;
+}
